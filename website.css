@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding:0;
+}
+
+.container {
+   background-color: white;
+/*   border:#e3e3e3 2px solid;*/
+   box-shadow: 5px 10px 25px #888888;
+   /*position: fixed;*/
+}
+
+.Logo {
+  height:50px;
+  width:50px;
+  padding:10px;
+  display: inline;
+}
+
+.cover {
+  background-color:black;
+  margin-bottom: 210px;
+}
+
+.title {
+  font-family:'Dongle', Sans-Serif;
+  margin-top: 100px;
+ text-align: center;
+  color:white;
+  padding: 5px;
+}
+
+@media screen and (min-width: 700px) {
+  a {
+    
+  }
+}
+  
+
+.con {
+  padding: 10%;
+ /*text-align-last: center;*/
+}
+
+/*.buttonContinue {
+  background:#395BB6;
+  margin-right: 450px;
+  padding:3px;
+  border-radius:2px;
+  border:white solid 2px;
+}*/
+
+.btn {
+  font-family:'Dongle', Sans-Serif;
+  color:white;
+  text-align: center;
+}
+
+.paragraph {
+  font-family:'Dongle', Sans-Serif;
+  text-align: center;
+  color:white;
+}
+
+a {
+  margin-left:220px;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:hover {
+  color:black;
+}
+
+.footer {
+  text-align: center;
+  font-family:'Dongle', Sans-Serif;
+}
+
+.c {
+/*  padding-bottom: 10px;*/
+}

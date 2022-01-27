@@ -1,0 +1,105 @@
+body {
+   margin: 0;
+   padding: 0;
+}
+
+input{
+  margin: 20px 0px 20px 100px;
+  
+}
+
+.submit {
+  padding: 5px;
+}
+
+.mainNav ul {
+  margin:0;
+  padding: 0;
+  list-style:none;
+}
+
+.mainNav li {
+  display:inline;
+  padding: 70px;
+}
+
+
+.mainNav a{
+  text-decoration:none;
+  color:#333;
+  font-family:'Dongle',san-serf;
+  
+}
+.sub {
+  margin-top: 90px;
+  background-color: #333;
+  color:white;
+  text-decoration:none;
+  padding: 10px 30px 10px 30px;
+  font-family:'Dongle', san-serf;
+  border-radius: 3px;
+  /*padding: 3px;*/
+}
+
+.k {
+  font-family:'Dongle', san-serf;
+  color:#333;
+}
+
+.input {
+  font-family:'Dongle', san-serf;
+  color: white;
+  border: #333 solid 1.5px;
+  border-radius: 3px;
+  padding: 10px;
+  margin-right: 100px;
+}
+
+.input2 {
+  font-family:'Dongle', san-serf;
+  background-color: #333;
+}
+.input {
+  background-color: #333;
+}
+
+footer {
+  background-color: #333;
+}
+
+p {
+  font-family:'Dongle',san-serf;
+  padding: 50px;
+  color:white;
+  margin-top: 75px;
+  text-align: center;
+}
+
+
+.input2 {
+  color: white;
+  margin-right: 100px;
+  border: #333 solid 1.5px;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+.container {
+    background: #333;
+}
+
+.head {
+  font-family:'Dongle', sans-serf;
+  color: white;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+
+.h {
+  margin: 0;
+  padding: 0;
+}
